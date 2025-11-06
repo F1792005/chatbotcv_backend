@@ -17,7 +17,8 @@ app.add_middleware(
         "http://127.0.0.1:5500",  # nơi bạn chạy file index.html
         "http://localhost:5500",
         "http://127.0.0.1:8000",
-        "http://localhost:8000"
+        "http://localhost:8000",
+        "https://f1792005.github.io/chatbotcv_frontend/"
     ],
     allow_credentials=True,
     allow_methods=["*"],
